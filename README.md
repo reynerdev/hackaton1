@@ -1,9 +1,25 @@
 # Sesiones
 
-## Sesion 1 
+## Sesion 1
 
+En esta sesión se explicó todo lo relacioando al *Backend*. Qué es lo que realiza un desarollador BackEnd. Las diferencias con el *FrontEnd*. Las tecnologias que se usan actualmente para el desarollo del *Backend*
+
+Aca tenemos un enlace a una fuente donde nos muestra gráficamente el camino a seguir (Roadmap) para un desarolllador el año 2020. Todas las tecnologias que un desarollor backend deberia de aprender.
+[![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/frontend)
 
 ## Sesion 2 
+
+Entender la diferencias entre  un editor de  código  e IDE's y realizar la configuracion correcto de Visual Studio Code.
+
+* **IDE** 
+
+Son herramientas mas complejos que nos brinda varias posibilidades como debugger en tiempo real. Se usa mayormente para proyectos grandes.
+
+
+
+* **Editores de texto**
+ 
+Son herramientas mas sencillas que nos permite
 
 
 ## Sesion 3
@@ -121,4 +137,12 @@ Para este repositorio sería
 
 ```sh
 git push https://github.com/reynerdev/hackaton1.git
+```
+
+## git clone
+
+Cuando necesitemos clonar un repositorio , usamos el comando `clone`. Estaremos haciendo una copia del depositorio a nuestra disco duro.
+
+```sh
+git clone https://github.com/reynerdev/hackaton1.git
 ```
