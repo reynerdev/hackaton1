@@ -13,7 +13,7 @@ Entender la diferencias entre  un editor de  código  e IDE's y realizar la conf
 
 
 
-* **IDE** 
+**IDE** 
 
 Son herramientas mas complejos que nos brinda varias posibilidades como debugger en tiempo real. Se usa mayormente para proyectos grandes.
 
@@ -26,7 +26,7 @@ Utiliza un IDE cuando [Enlace]:
 
 
 
-* **Editores de texto**
+**Editores de texto**
  
 Son herramientas mas sencillas que nos permite
 
@@ -37,7 +37,7 @@ Utilizar editores de texto cuando [Enlace]:
 * Estas creando sitios web estáticos
 * Eres experto en el lenguaje que estas programando, tan experto que solo con tener la documentación a la mano es suficiente para hacer maravillas.
 
-[Enlace] (https://ingeniaoaxaca.com/que-diferencias-hay-entre-un-editor-y-un-ide-a-la-hora-de-escribir-codigo/)
+[Enlace]:(https://ingeniaoaxaca.com/que-diferencias-hay-entre-un-editor-y-un-ide-a-la-hora-de-escribir-codigo/)
 ## Sesion 3
 
 En este sesión se estudio el software para el manejo de versiones llamado [Git] usando los repositorios de [Git Hub] 
