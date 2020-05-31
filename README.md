@@ -38,7 +38,7 @@ $ git add .
   <img src="/img/gitaddcommand.JPG" alt="git init" width="738">
 </p>
 
-Existen otros comandos si queremos ser mas expecificos, al momento de agregar archivos al commit. Por ejemplo, si queremos agregar solamente un archivo index.html
+Existen otros comandos si queremos ser mas especificos, al momento de agregar archivos al commit. Por ejemplo, si queremos agregar solamente un archivo index.html
 
 ```sh
 $ git add "index.html"
@@ -92,11 +92,33 @@ $ git commit -m "Primer Commit"
 
 ## git branch 
 
-Cuando necesitamos crear un branch. Realizaremos el siguiente codigo. Supongamos que nuestro **branch** ( rama) se llame *"Parte2*
+Cuando necesitamos crear un branch. Realizaremos el siguiente codigo. Supongamos que nuestro **branch** ( rama) se llame **"Parte2"**
 
 ```sh
-$ git branch Parte2"
+$ git branch Parte2
 ```
+
+Ahora, para estar trabajando en nuestra rama. Ejecutamos el siguiente comando. 
+
+```sh
+$ git checkout Parte2
+```
+
 En este momento si ejecutamos el comando `git status` nos saldra `On branch Parte2`. Quiere decir que estamos en nuestra rama "Parte2". 
 
-Si agregamos
+Para volver al master solo tenemos que ejecutar el siguiente comando
+
+```sh
+$ git checkout master
+```
+
+## git push
+
+
+Para enviar nuestros archivos confirmados a nuestro repositorio que puede ser **GitHub** o **GitLab**. Usaremos el comando `git pull <dirrecion http de nuestro repositorio`. 
+
+Para este repositorio sería
+
+```sh
+git push https://github.com/reynerdev/hackaton1.git
+```
