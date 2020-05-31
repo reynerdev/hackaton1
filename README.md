@@ -16,7 +16,7 @@ Inicializa el repositorio Git en la carpeta donde se ejecuta el comando
 $ git init
 ```
 <p align="center">
-  <img src="./img/gitinit.jpg" alt="git init" width="738">
+  <img src="/img/gitinit.jpg" alt="git init" width="738">
 </p>
 
 ```sh
