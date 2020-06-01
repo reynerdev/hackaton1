@@ -11,13 +11,13 @@ Aca tenemos un enlace a una fuente donde nos muestra gráficamente el camino a s
 
 Entender la diferencias entre  un editor de  código  e IDE's y realizar la configuracion correcto de Visual Studio Code.
 
-<img src="/img/vstudio.jpg" align="right"
-     alt="Visual Studio" width="120" height="178">
+
 
 ### IDE
 
 Son herramientas mas complejos que nos brinda varias posibilidades como debugger en tiempo real. Se usa mayormente para proyectos grandes.
-
+<img src="/img/vstudio.jpg" align="right"
+     alt="Visual Studio" width="180" height="178">
 Utiliza un IDE cuando [(enlace)]:
 
 * El lenguaje de programacion sea compilado, Java por ejemplo, eso de estar compilando cada clase por tu cuenta cuando es un proyecto enorme es un gran problema, deja que un IDE lo haga por ti.
