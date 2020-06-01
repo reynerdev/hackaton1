@@ -26,9 +26,10 @@ Utiliza un IDE cuando [enlace]:
 * Tienes una computadora con suficientes recursos.
 * Rquiere una licencia 
 
+<p align="center">
 <img src="/img/vstudio_.gif" align="center"
      alt="Visual Studio_" width="738">
-
+</p>
 ### Editores de texto
  
 Un editor de texto es un herramienta mas simple que se encuentra integrado ya en un IDE, pero en esta oportunidad lo tenemos como una herramienta externa y facil de usar. Ultimamente, exiten varios complementos que estan logrando que un editor de texto sea capaz de imitar algunas de las cualidades de un ide, como la funcion de autocompletado,
