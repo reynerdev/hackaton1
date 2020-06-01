@@ -30,7 +30,7 @@ Utiliza un IDE cuando [(enlace)]:
  
 Son herramientas mas sencillas que nos permite
 
-Utilizar editores de texto cuando [(enlace)]:
+### Utilizar editores de texto cuando [(enlace)]:
 
 
 * Tengas una computadora con muy pocos recursos
@@ -45,6 +45,7 @@ Uno de los editores de texto mas usados ultimamente es Visual Studio Code.
 <p align="center">
   <img src="/img/vscode.png" alt="git init" width="738">
 </p>
+
 ## Sesion 3
 
 En este sesión se estudio el software para el manejo de versiones llamado [Git] usando los repositorios de [Git Hub] 
