@@ -11,8 +11,8 @@ Aca tenemos un enlace a una fuente donde nos muestra gráficamente el camino a s
 
 Entender la diferencias entre  un editor de  código  e IDE's y realizar la configuracion correcto de Visual Studio Code.
 
-<img src="/img/vscode.png" align="right"
-     alt="/img/vscode.png" width="120" height="178">
+<img src="/img/vstudio.png" align="right"
+     alt="Visual Studio" width="120" height="178">
 
 ### IDE
 
