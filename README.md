@@ -26,7 +26,7 @@ Utiliza un IDE cuando [enlace]:
 * Tienes una computadora con suficientes recursos.
 * Rquiere una licencia 
 
-![]("/img/vstudio_.jpg")
+![]("/img/vstudio_.gif")
 
 ### Editores de texto
  
