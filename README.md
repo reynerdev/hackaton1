@@ -11,9 +11,10 @@ Aca tenemos un enlace a una fuente donde nos muestra gráficamente el camino a s
 
 Entender la diferencias entre  un editor de  código  e IDE's y realizar la configuracion correcto de Visual Studio Code.
 
+<img src="https://ai.github.io/size-limit/logo.svg" align="right"
+     alt="/img/vscode.png" width="120" height="178">
 
-
-**IDE** 
+### IDE
 
 Son herramientas mas complejos que nos brinda varias posibilidades como debugger en tiempo real. Se usa mayormente para proyectos grandes.
 
@@ -23,21 +24,23 @@ Utiliza un IDE cuando [(enlace)]:
 * Estas diseñando una interfaz grafica de usuario, nada mejor que un IDE con un bonito drag and drop, para solo soltar los elementos en el lugar que quieras que salgan.
 * Estas aprendiendo un lenguaje nuevo, no sabes la sintaxis, ni los metodos ni nada. La ayuda y completado de codigo del IDE hara tu aprendizaje mas facil y amistoso.
 * Tienes una computadora con suficientes recursos.
+* Rquiere una licencia 
 
 
 
-**Editores de texto**
+### Editores de texto
  
-Son herramientas mas sencillas que nos permite
+Un editor de texto es un herramienta mas simple que se encuentra integrado ya en un IDE, pero en esta oportunidad lo tenemos como una herramienta externa y facil de usar. Ultimamente, exiten varios complementos que estan logrando que un editor de texto sea capaz de imitar algunas de las cualidades de un ide, como la funcion de autocompletado,
 
-### Utilizar editores de texto cuando [(enlace)]:
+ Utilizar editores de texto cuando [(enlace)]:
 
 
 * Tengas una computadora con muy pocos recursos
 * El lenguaje de programación que utilices no sea compilado (php, javascript, ruby, etc)
 * Estas creando sitios web estáticos
 * Eres experto en el lenguaje que estas programando, tan experto que solo con tener la documentación a la mano es suficiente para hacer maravillas.
-
+* La mayoria son gratis.
+* Facil de aprender 
 [Enlace]:https://ingeniaoaxaca.com/que-diferencias-hay-entre-un-editor-y-un-ide-a-la-hora-de-escribir-codigo/
 
 Uno de los editores de texto mas usados ultimamente es Visual Studio Code.
