@@ -17,7 +17,7 @@ Entender la diferencias entre  un editor de  código  e IDE's y realizar la conf
 
 Son herramientas mas complejos que nos brinda varias posibilidades como debugger en tiempo real. Se usa mayormente para proyectos grandes.
 
-Utiliza un IDE cuando [Enlace]:
+Utiliza un IDE cuando [(enlace)]:
 
 * El lenguaje de programacion sea compilado, Java por ejemplo, eso de estar compilando cada clase por tu cuenta cuando es un proyecto enorme es un gran problema, deja que un IDE lo haga por ti.
 * Estas diseñando una interfaz grafica de usuario, nada mejor que un IDE con un bonito drag and drop, para solo soltar los elementos en el lugar que quieras que salgan.
@@ -30,14 +30,21 @@ Utiliza un IDE cuando [Enlace]:
  
 Son herramientas mas sencillas que nos permite
 
-Utilizar editores de texto cuando [Enlace]:
+Utilizar editores de texto cuando [(enlace)]:
+
 
 * Tengas una computadora con muy pocos recursos
 * El lenguaje de programación que utilices no sea compilado (php, javascript, ruby, etc)
 * Estas creando sitios web estáticos
 * Eres experto en el lenguaje que estas programando, tan experto que solo con tener la documentación a la mano es suficiente para hacer maravillas.
 
-[Enlace]:(https://ingeniaoaxaca.com/que-diferencias-hay-entre-un-editor-y-un-ide-a-la-hora-de-escribir-codigo/)
+[Enlace]:https://ingeniaoaxaca.com/que-diferencias-hay-entre-un-editor-y-un-ide-a-la-hora-de-escribir-codigo/
+
+Uno de los editores de texto mas usados ultimamente es Visual Studio Code.
+
+<p align="center">
+  <img src="/img/vscode.png" alt="git init" width="738">
+</p>
 ## Sesion 3
 
 En este sesión se estudio el software para el manejo de versiones llamado [Git] usando los repositorios de [Git Hub] 
