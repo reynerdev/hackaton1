@@ -1,4 +1,4 @@
-# Sesiones
+# SEMANA 1 
 [![](https://img.shields.io/badge/badge-Alumno%20Reyner%20Loza-blue)](https://www.instagram.com/hreloza/)
 ## Sesion 1
 
@@ -7,7 +7,7 @@ En esta sesión se explicó todo lo relacioando al *Backend*. Qué es lo que rea
 Aca tenemos un enlace a una fuente donde nos muestra gráficamente el camino a seguir (Roadmap) para un desarolllador actualizado para esteaño 2020. Todas las tecnologias que un desarollor backend deberia de aprender.
 [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/frontend)
 
-## Sesion 2 
+## SESIÓN 2
 
 Entender la diferencias entre  un editor de  código  e IDE's y realizar la configuracion correcto de Visual Studio Code.
 
@@ -18,7 +18,7 @@ Entender la diferencias entre  un editor de  código  e IDE's y realizar la conf
 Son herramientas mas complejos que nos brinda varias posibilidades como debugger en tiempo real. Se usa mayormente para proyectos grandes.
 <img src="/img/vstudio.jpg" align="right"
      alt="Visual Studio" width="180" height="178">
-Utiliza un IDE cuando [(enlace)]:
+Utiliza un IDE cuando [enlace]:
 
 * El lenguaje de programacion sea compilado, Java por ejemplo, eso de estar compilando cada clase por tu cuenta cuando es un proyecto enorme es un gran problema, deja que un IDE lo haga por ti.
 * Estas diseñando una interfaz grafica de usuario, nada mejor que un IDE con un bonito drag and drop, para solo soltar los elementos en el lugar que quieras que salgan.
@@ -26,13 +26,13 @@ Utiliza un IDE cuando [(enlace)]:
 * Tienes una computadora con suficientes recursos.
 * Rquiere una licencia 
 
-
+![]("/img/vstudio_.jpg")
 
 ### Editores de texto
  
 Un editor de texto es un herramienta mas simple que se encuentra integrado ya en un IDE, pero en esta oportunidad lo tenemos como una herramienta externa y facil de usar. Ultimamente, exiten varios complementos que estan logrando que un editor de texto sea capaz de imitar algunas de las cualidades de un ide, como la funcion de autocompletado,
 
- Utilizar editores de texto cuando [(enlace)]:
+ Utilizar editores de texto cuando [enlace]:
 
 
 * Tengas una computadora con muy pocos recursos
@@ -41,7 +41,7 @@ Un editor de texto es un herramienta mas simple que se encuentra integrado ya en
 * Eres experto en el lenguaje que estas programando, tan experto que solo con tener la documentación a la mano es suficiente para hacer maravillas.
 * La mayoria son gratis.
 * Facil de aprender 
-[Enlace]:https://ingeniaoaxaca.com/que-diferencias-hay-entre-un-editor-y-un-ide-a-la-hora-de-escribir-codigo/
+[enlace]:https://ingeniaoaxaca.com/que-diferencias-hay-entre-un-editor-y-un-ide-a-la-hora-de-escribir-codigo/
 
 Uno de los editores de texto mas usados ultimamente es Visual Studio Code.
 
